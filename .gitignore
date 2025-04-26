@@ -5,3 +5,5 @@ cookies.json
 *.log
 .cursor
 logs/
+.idea/
+package-lock.json
